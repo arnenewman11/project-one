@@ -1,0 +1,32 @@
+questions to answer:
+1. how bike share impact the home* price in DC:
+	a) Does more # of bike stations mean higher home price?
+		Timeframe: 2017-Q2 
+		Data: Zillow house price per neighborhood and quarterly bike ride data
+		Type of plot: scatter plot
+		hypothesis: the higher # of bike station the higher price
+			y: zillow index
+			x: # of bike stations for each neighborhood (for 1 quarter)
+	b) Does increase in bike station correlated to the increase in home price?
+
+	Option 1: a crowded graphs of 4 neighborhood - 2 that have the highest home price and 2 with lowest home price
+		Timeframe: 2010-Q2, 2011-Q2, 2012-Q2, 2013-Q2, 2014-Q2, 2015-Q2, 2016-Q2, 2017-Q2
+			y1: Zillow index
+			y2: # of bike stations
+			x: time range
+
+	Option 2: individual chart for selected neighborhood using axis above
+	c) Study for 2 neighborhood - 1 w/ highest price change; the other lowest price change
+		Timeframe: quarterly data from 2010
+			y: zillow index
+			x: # of bike stations for each neighborhood (for 1 quarter)
+
+2. When does bike share start? before and after, does the price change dramatically?
+	a) Data: the same 2 neighborhood in 1c)
+		y: zillow index
+		x: 2001 to 2017 quarterly?
+
+* home: including condos, house, etc.
+
+
+
