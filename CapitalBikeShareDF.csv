@@ -1,0 +1,546 @@
+,start_station,start_date
+0,10th & e st nw,7/12/2012 13:04
+1,10th & florida ave nw,10/9/2013 8:55
+2,10th & g st nw,10/1/2016 8:41
+3,10th & k st nw,7/1/2015 6:32
+4,10th & monroe st ne,10/16/2010 13:55
+5,10th & u st nw,9/20/2010 12:16
+6,10th st & constitution ave nw,10/7/2010 15:42
+7,10th st & l'enfant plaza sw,5/19/2016 12:08
+8,11th & f st nw,2/4/2013 11:24
+9,11th & girard st nw,6/8/2017 4:32
+10,11th & h st ne,12/12/2011 12:02
+11,11th & k st nw,2/15/2013 9:40
+12,11th & kenyon st nw,10/8/2010 14:02
+13,11th & m st nw,4/3/2013 9:55
+14,11th & o st nw,5/19/2016 14:06
+15,11th & s st nw,4/8/2015 14:23
+16,12th & army navy dr,9/21/2010 9:37
+17,12th & hayes st,9/20/2010 18:51
+18,12th & hayes st /  pentagon city metro,8/1/2013 7:24
+19,12th & irving st ne,5/30/2013 11:53
+20,12th & l st nw,6/25/2012 16:55
+21,12th & newton st ne,10/7/2010 18:35
+22,12th & u st nw,8/1/2014 0:11
+23,12th st & pennsylvania ave se,12/15/2016 14:06
+24,13th & d st ne,10/27/2010 18:30
+25,13th & h st ne,10/9/2010 14:51
+26,13th & u st nw,6/14/2013 13:43
+27,13th st & eastern ave,9/27/2013 14:52
+28,13th st & new york ave nw,10/18/2010 14:08
+29,14th & belmont st nw,10/2/2013 9:10
+30,14th & d st nw / ronald reagan building,4/20/2011 10:17
+31,14th & d st se,9/22/2010 15:45
+32,14th & g st nw,11/8/2010 16:29
+33,14th & girard st nw,5/5/2016 12:30
+34,14th & harvard st nw,9/20/2010 12:30
+35,14th & irving st nw,8/2/2016 13:21
+36,14th & l st nw,4/5/2016 9:17
+37,14th & r st nw,9/17/2010 12:24
+38,14th & rhode island ave nw,9/20/2010 17:46
+39,14th & upshur st nw,4/12/2013 17:36
+40,14th & v st nw,9/17/2010 11:00
+41,14th st & colorado ave nw,4/12/2013 16:37
+42,14th st & new york ave nw,10/1/2014 8:35
+43,14th st & spring rd nw,9/20/2010 19:14
+44,14th st heights / 14th & crittenden st nw,9/26/2010 21:42
+45,15th & crystal dr,9/20/2010 16:23
+46,15th & east capitol st ne,5/14/2013 13:09
+47,15th & euclid st  nw,5/6/2013 12:44
+48,15th & f st ne,5/30/2013 12:13
+49,15th & hayes st,9/20/2010 19:53
+50,15th & k st nw,7/2/2012 11:09
+51,15th & l st nw,10/7/2014 13:37
+52,15th & m st nw,6/1/2017 1:25
+53,15th & n scott st,4/25/2012 19:52
+54,15th & p st nw,9/20/2010 13:13
+55,15th & w st nw,1/5/2017 13:50
+56,15th st & constitution ave nw,6/22/2017 1:03
+57,15th st & massachusetts ave se,12/22/2011 9:16
+58,15th st & pennsylvania ave nw/pershing park,9/27/2017 1:11
+59,16th & harvard st nw,9/20/2010 12:39
+60,16th & irving st nw,3/10/2016 10:40
+61,16th & k st nw,8/9/2016 10:17
+62,16th & q st se / anacostia hs,10/1/2016 11:29
+63,16th & r st nw,3/10/2016 17:48
+64,16th & u st nw,10/15/2010 10:24
+65,17th & corcoran st nw,9/24/2010 10:37
+66,17th & g st nw,10/7/2014 9:18
+67,17th & k st nw,5/1/2013 5:49
+68,17th & k st nw / farragut square,4/29/2011 9:34
+69,17th & k st nw [formerly 17th & l st nw],9/21/2010 17:27
+70,17th & rhode island ave nw,11/18/2011 13:13
+71,17th st & independence ave sw,6/14/2016 11:31
+72,17th st & massachusetts ave nw,5/6/2013 11:59
+73,18th & bell st,9/19/2010 13:49
+74,18th & c st nw,4/19/2016 9:17
+75,18th & eads st.,4/1/2013 16:36
+76,18th & hayes st,9/20/2010 23:16
+77,18th & m st nw,10/7/2010 19:02
+78,18th & monroe st ne,3/8/2017 15:37
+79,18th & r st nw,11/10/2014 11:58
+80,18th & wyoming ave nw,4/3/2013 15:40
+81,18th st & pennsylvania ave nw,11/29/2011 14:44
+82,18th st & rhode island ave ne,5/30/2013 12:14
+83,18th st & wyoming ave nw,5/1/2013 7:20
+84,19th & e street nw,9/20/2010 12:18
+85,19th & east capitol st se,9/20/2010 11:57
+86,19th & g st nw,2/4/2015 10:34
+87,19th & k st nw,6/27/2012 8:55
+88,19th & l st nw,10/18/2010 14:19
+89,19th & new hampshire ave nw,10/19/2010 16:02
+90,19th & savannah st se,9/30/2017 4:55
+91,19th st & constitution ave nw,10/16/2010 15:51
+92,19th st & pennsylvania ave nw,9/20/2010 12:09
+93,1st & d st se,10/1/2016 8:05
+94,1st & h st nw,2/18/2014 17:04
+95,1st & k st se,2/8/2012 13:46
+96,1st & m st ne,9/20/2010 12:26
+97,1st & n st  se,7/1/2012 2:22
+98,1st & n st se,9/20/2010 11:41
+99,1st & o st nw,4/5/2016 18:46
+100,1st & rhode island ave nw,12/6/2011 9:11
+101,1st & s capitol st se / oxon run trail,9/29/2017 11:58
+102,1st & washington hospital center nw,2/14/2012 12:58
+103,20th & bell st,9/20/2010 14:45
+104,20th & crystal dr,9/20/2010 12:42
+105,20th & e st nw,9/20/2010 17:55
+106,20th & l st nw,6/25/2012 9:42
+107,20th & o st nw / dupont south,2/10/2012 17:34
+108,20th st & florida ave nw,9/20/2010 18:52
+109,20th st & virginia ave nw,1/31/2013 17:09
+110,21st & i st nw,9/20/2010 12:14
+111,21st & m st nw,9/20/2010 15:05
+112,21st st & constitution ave nw,1/31/2013 12:46
+113,21st st & pennsylvania ave nw,6/27/2012 11:10
+114,21st st n & n pierce st,11/26/2014 6:34
+115,22nd & eads st,8/1/2014 8:22
+116,22nd & h st nw,7/13/2017 4:06
+117,22nd & i st nw / foggy bottom,7/16/2012 9:03
+118,22nd & p st nw,4/19/2016 15:28
+119,22nd st & constitution ave nw,10/5/2016 15:40
+120,23rd & crystal dr,9/19/2010 15:47
+121,23rd & e st nw,1/31/2013 13:59
+122,23rd & eads,9/23/2010 0:33
+123,23rd & eads st,4/1/2013 6:57
+124,23rd & m st nw,8/1/2017 2:13
+125,24th & n st nw,7/6/2012 13:17
+126,24th & r st ne / national arboretum,10/1/2016 3:52
+127,25th st & pennsylvania ave nw,10/29/2010 16:36
+128,26th & crystal dr,9/20/2010 21:07
+129,26th & s clark st,10/1/2013 7:18
+130,27th & crystal dr,9/15/2010 14:05
+131,28th st s & s meade st,3/28/2013 10:44
+132,2nd & g st ne,6/18/2015 9:47
+133,2nd st & massachusetts ave ne,5/27/2016 13:22
+134,2nd st & seaton pl ne,6/1/2017 4:30
+135,3000 connecticut ave nw / national zoo,12/21/2011 19:03
+136,31st & water st nw,3/24/2017 14:35
+137,31st & woodrow st s,12/17/2013 9:54
+138,33rd & water st nw,7/1/2016 0:56
+139,34th & water st nw,7/9/2014 12:14
+140,34th st & minnesota ave se,6/4/2013 11:21
+141,34th st & wisconsin ave nw,10/15/2010 14:16
+142,36th & calvert st nw / glover park,11/8/2010 14:33
+143,37th & o st nw / georgetown university,10/25/2010 16:57
+144,39th & calvert st nw / stoddert,2/10/2012 13:16
+145,39th & veazey st nw,2/11/2013 16:57
+146,3rd & d st se,9/22/2010 15:18
+147,3rd & elm st nw,7/23/2013 12:26
+148,3rd & g st se,11/30/2011 10:54
+149,3rd & h st ne,10/14/2010 18:08
+150,3rd & h st nw,1/1/2014 2:15
+151,3rd & tingey st se,10/2/2013 7:48
+152,3rd & underwood st nw,3/8/2017 13:03
+153,3rd st & pennsylvania ave se,7/23/2013 13:40
+154,3rd st & riggs rd ne,12/24/2016 17:27
+155,47th & elm st,10/20/2013 11:14
+156,4th & adams st ne,9/16/2010 10:11
+157,4th & c st sw,4/1/2017 1:27
+158,4th & d st nw / judiciary square,6/25/2011 9:59
+159,4th & e st sw,12/1/2011 16:58
+160,4th & east capitol st ne,10/29/2010 17:35
+161,4th & kennedy st nw,10/1/2016 9:17
+162,4th & m st sw,9/20/2010 16:34
+163,4th & w st ne,7/1/2014 6:42
+164,4th st & madison dr nw,6/14/2016 8:10
+165,4th st & massachusetts ave nw,9/21/2010 17:44
+166,4th st & mississippi ave se,9/21/2017 1:11
+167,4th st & rhode island ave ne,1/1/2012 7:48
+168,5th & f st nw,10/9/2010 11:08
+169,5th & k st nw,5/1/2013 0:13
+170,5th & kennedy st nw,4/12/2013 16:44
+171,5th st & k st nw,9/20/2010 12:05
+172,5th st & massachusetts ave nw,5/6/2013 10:25
+173,61st st & banks pl ne,10/9/2016 12:26
+174,6th & h st ne,12/12/2011 9:20
+175,6th & k st ne,12/21/2016 18:39
+176,6th & s ball st,9/17/2014 19:43
+177,6th & water st sw / sw waterfront,1/1/2014 9:33
+178,6th st & indiana ave nw,4/3/2013 10:31
+179,7th & e st sw,3/24/2017 12:31
+180,7th & f st nw / national portrait gallery,4/29/2011 14:10
+181,7th & f st nw/portrait gallery,10/1/2016 0:08
+182,7th & r st nw / shaw library,11/29/2011 20:11
+183,7th & t st nw,9/20/2010 12:12
+184,7th & water st sw / sw waterfront,10/13/2010 10:10
+185,8th & d st nw,7/23/2013 8:36
+186,8th & east capitol st ne,5/14/2013 12:20
+187,8th & eye st se / barracks row,9/24/2010 13:11
+188,8th & f st ne,5/14/2013 17:27
+189,8th & f st nw,7/1/2015 7:24
+190,8th & f st nw / national portrait gallery,10/1/2012 1:31
+191,8th & h st nw,10/8/2010 12:21
+192,8th & o st nw,7/29/2015 11:20
+193,9th & upshur st nw,12/6/2011 23:55
+194,adams mill & columbia rd nw,9/20/2010 13:40
+195,alabama & mlk ave se,6/4/2013 7:33
+196,alabama ave & stanton rd se / shops at park village,9/21/2017 9:30
+197,alta bicycle share demonstration station,10/28/2010 16:36
+198,alta tech office,9/11/2013 6:19
+199,amherst ave & elkins st,2/28/2017 14:34
+200,amherst ave & prichard rd,3/2/2017 7:51
+201,anacostia ave & benning rd ne / river terrace,12/22/2011 13:45
+202,anacostia library,10/24/2010 16:59
+203,anacostia metro,9/22/2010 9:36
+204,arlington blvd & fillmore st,11/15/2013 16:44
+205,arlington blvd & n queen st,9/5/2012 7:00
+206,arlington blvd & s george mason dr/nfatc,7/23/2014 15:07
+207,army navy dr & s nash st,4/8/2015 12:28
+208,aurora hills community ctr/18th & hayes st,11/1/2013 12:07
+209,ballenger ave & dulaney st,8/18/2014 16:25
+210,ballston metro / n stuart & 9th st n,4/30/2012 16:39
+211,barcroft community center,1/1/2017 14:02
+212,barton st & 10th st n,9/4/2012 12:04
+213,battery ln & trolley trail,10/25/2013 19:36
+214,benning branch library,10/12/2010 19:14
+215,benning rd & east capitol st ne / benning rd metro,12/22/2011 13:32
+216,bethesda ave & arlington blvd,9/27/2013 12:43
+217,bethesda ave & arlington rd,10/1/2014 9:05
+218,bethesda metro,5/1/2014 8:44
+219,birthday station,9/22/2011 17:10
+220,bladensburg rd & benning rd ne,10/29/2010 6:54
+221,braddock rd metro,8/29/2012 8:43
+222,branch & pennsylvania ave se,7/4/2011 11:03
+223,broschart & blackwell rd,10/29/2013 15:33
+224,c & o canal & wisconsin ave nw,10/18/2010 16:34
+225,california st & florida ave nw,12/13/2011 9:51
+226,calvert & biltmore st nw,9/1/2013 0:41
+227,calvert st & woodley pl nw,9/20/2010 13:30
+228,carlin springs rd & n thomas st,12/20/2016 17:48
+229,carroll & ethan allen ave,10/30/2013 8:43
+230,carroll & westmoreland ave,10/29/2013 12:47
+231,central library,3/1/2012 7:58
+232,central library / n quincy st & 10th st n,2/17/2012 10:58
+233,clarendon blvd & n fillmore st,1/1/2012 1:42
+234,clarendon blvd & pierce st,4/16/2011 14:01
+235,clarendon metro / wilson blvd & n highland st,1/1/2012 11:06
+236,columbia & ontario rd nw,4/27/2017 1:55
+237,columbia pike & s courthouse rd,3/28/2013 12:42
+238,columbia pike & s dinwiddie st / arlington mill community center,8/29/2013 11:25
+239,columbia pike & s orme st,7/3/2013 1:33
+240,columbia pike & s taylor st,5/10/2017 2:11
+241,columbia pike & s walter reed dr,8/27/2013 9:18
+242,columbia rd & belmont st nw,11/18/2011 9:15
+243,columbia rd & georgia ave nw,12/8/2011 10:24
+244,columbus ave & gramercy blvd,5/18/2017 11:38
+245,columbus ave & tribeca st,5/13/2017 2:50
+246,columbus circle / union station,10/26/2010 11:47
+247,commerce st & fayette st,8/31/2012 17:13
+248,commonwealth & e monroe ave,6/8/2016 15:00
+249,commonwealth ave & oak st,6/7/2016 18:18
+250,congress heights metro,12/22/2011 13:34
+251,connecticut & nebraska ave nw,5/1/2013 6:32
+252,connecticut ave & chevy chase lake dr,1/14/2016 19:59
+253,connecticut ave & nebraska ave nw,4/25/2013 17:06
+254,connecticut ave & newark st nw / cleveland park,10/10/2010 11:08
+255,connecticut ave & r st nw,6/8/2017 3:03
+256,connecticut ave & tilden st nw,12/13/2013 20:22
+257,connecticut ave & yuma st nw,4/25/2013 17:28
+258,constitution ave & 2nd st nw/dol,7/30/2013 11:22
+259,convention center / 7th & m st nw,10/9/2010 15:18
+260,cordell & norfolk ave,9/27/2013 13:27
+261,corporate blvd & omega dr,8/5/2017 2:20
+262,court house metro / 15th & n uhle st,8/28/2014 11:57
+263,court house metro / wilson blvd & n uhle st,11/10/2011 10:32
+264,crabbs branch way & calhoun pl,10/19/2013 11:37
+265,crabbs branch way & redland rd,10/18/2013 10:28
+266,crystal city metro / 18th & bell st,10/1/2012 0:13
+267,d st & maryland ave ne,2/24/2012 9:50
+268,deanwood rec center,11/11/2013 10:02
+269,dennis & amherst ave,4/3/2017 6:37
+270,division ave & foote st ne,8/23/2016 12:01
+271,duke st & john carlyle st,8/18/2014 15:38
+272,e montgomery ave & maryland ave,9/27/2013 10:19
+273,eads & 22nd st s,4/1/2017 1:14
+274,eads st & 15th st s,4/1/2016 8:15
+275,east falls church metro/sycamore st & 19th st n,6/4/2016 9:11
+276,east west hwy & 16th st,4/21/2016 16:44
+277,east west hwy & blair mill rd,10/30/2013 17:59
+278,eastern market / 7th & north carolina ave se,9/29/2010 18:14
+279,eastern market metro / pennsylvania ave & 7th st se,10/6/2010 18:28
+280,eckington pl & q st ne,10/14/2010 18:40
+281,eisenhower ave & mill race ln,8/18/2014 10:35
+282,fairfax dr & glebe rd,6/5/2012 18:44
+283,fairfax dr & kenmore st,4/2/2013 9:52
+284,fairfax dr & wilson blvd,4/27/2012 17:22
+285,fairfax village,7/27/2011 20:54
+286,fallsgove dr & w montgomery ave,10/18/2013 15:26
+287,fallsgrove blvd & fallsgrove dr,9/29/2013 10:45
+288,fallsgrove dr & w montgomery ave,5/1/2014 14:06
+289,fenton st & ellsworth dr,10/30/2013 18:31
+290,fenton st & gist ave,10/31/2013 10:08
+291,fenton st & new york ave,9/28/2013 12:33
+292,fessenden st & wisconsin ave nw,2/11/2013 9:43
+293,fleet st & ritchie pkwy,10/27/2013 14:44
+294,florida ave & r st nw,9/24/2010 10:29
+295,fort totten metro,2/19/2014 14:31
+296,franklin & s washington st,7/21/2016 19:30
+297,frederick ave & horners ln,9/27/2013 17:35
+298,friendship blvd & willard ave,11/13/2013 17:04
+299,friendship hts metro/wisconsin ave & wisconsin cir,9/27/2013 12:02
+300,gallaudet / 8th st & florida ave ne,7/11/2012 17:12
+301,garland ave & walden rd,11/5/2013 8:00
+302,george mason dr & wilson blvd,5/1/2012 10:58
+303,georgetown harbor / 30th st nw,10/5/2010 19:20
+304,georgia & missouri ave nw,8/25/2015 8:40
+305,georgia & new hampshire ave nw,9/17/2010 17:18
+306,georgia ave & emerson st nw,4/13/2013 17:27
+307,georgia ave & piney branch rd nw,3/9/2017 9:23
+308,georgia ave & spring st,10/31/2013 10:42
+309,georgia ave and fairmont st nw,9/20/2010 19:14
+310,glebe rd & 11th st n,5/17/2012 12:46
+311,good hope & naylor rd se,10/12/2010 16:48
+312,good hope rd & 14th st se,5/3/2012 16:14
+313,good hope rd & mlk ave se,9/20/2010 16:55
+314,grandview & blueridge ave,3/3/2017 7:06
+315,greensboro & international dr,10/26/2016 13:44
+316,hains point/buckeye & ohio dr sw,11/8/2013 18:38
+317,hamlin & 7th st ne,8/16/2013 16:39
+318,harvard st & adams mill rd nw,10/14/2010 8:15
+319,henry bacon dr & lincoln memorial circle nw,6/14/2016 13:29
+320,henry st & pendleton st,9/3/2012 8:02
+321,idaho ave & newark st nw [on 2nd district patio],4/1/2012 6:20
+322,independence ave & l'enfant plaza sw/doe,8/6/2013 12:59
+323,iwo jima memorial/n meade & 14th st n,6/12/2014 11:45
+324,jefferson dr & 14th st sw,3/16/2012 12:31
+325,jefferson memorial,5/2/2012 11:20
+326,john mccormack dr & michigan ave ne,9/21/2010 14:31
+327,jones branch & westbranch dr,10/21/2016 15:50
+328,kennebec st & 11th st n,10/1/2016 7:15
+329,kennedy center,10/7/2010 12:03
+330,key blvd & n quinn st,4/23/2012 11:23
+331,key west ave & diamondback dr,9/7/2017 3:42
+332,key west ave & great seneca hwy,5/29/2017 10:05
+333,key west ave & siesta key way,2/20/2016 12:53
+334,king farm blvd & piccard dr,11/6/2013 14:50
+335,king farm blvd & pleasant dr,11/1/2013 15:03
+336,king st & patrick st,8/31/2012 8:20
+337,king st metro,8/31/2012 15:57
+338,king st metro north / cameron st,2/18/2016 9:34
+339,king st metro south,10/1/2015 0:30
+340,l'enfant plaza / 7th & c st sw,10/6/2010 16:26
+341,lamont & mt pleasant nw,9/20/2010 20:02
+342,lee center,7/22/2016 10:08
+343,lee hwy & n adams st,10/1/2015 8:04
+344,lee hwy & n cleveland st,7/24/2014 6:37
+345,lee hwy & n kirkwood rd,1/17/2015 10:13
+346,lee hwy & n monroe st,7/1/2016 14:58
+347,lee hwy & n nelson st,10/1/2015 7:22
+348,lee hwy & n scott st,8/6/2014 12:20
+349,lee hwy & n woodstock st,2/19/2016 17:40
+350,library st & freedom dr,10/21/2016 4:56
+351,lincoln memorial,10/3/2012 9:57
+352,lincoln park / 13th & east capitol st ne,10/25/2010 18:24
+353,livingston rd & 3rd st se,9/21/2017 1:14
+354,long bridge park/long bridge dr & 6th st s,11/15/2013 19:48
+355,lynn & 19th st north,4/16/2011 19:34
+356,lyttonsville rd & lyttonsville pl,4/2/2016 10:22
+357,m st & delaware ave ne,2/15/2013 7:21
+358,m st & new jersey ave se,9/20/2010 11:27
+359,m st & pennsylvania ave nw,12/21/2011 12:01
+360,madison & fairfax st,11/10/2016 12:18
+361,madison & n henry st,2/17/2016 7:47
+362,maine ave & 7th st sw,4/1/2017 2:01
+363,maple & ritchie ave,9/27/2013 13:31
+364,market square / king st & royal st,8/27/2012 11:00
+365,maryland & independence ave sw,1/27/2012 13:18
+366,maryland ave & e st ne,11/10/2015 11:26
+367,massachusetts ave & dupont circle nw,9/20/2010 13:34
+368,mckinley st & connecticut ave nw,10/15/2014 11:24
+369,mcpherson square - 14th & h st nw,9/30/2010 15:42
+370,mcpherson square / 14th & h st nw,1/1/2013 11:44
+371,medical center dr & key west ave,1/9/2014 11:54
+372,medical center metro,2/23/2016 17:56
+373,metro center / 12th & g st nw,5/13/2011 9:04
+374,minnesota ave metro/does,9/20/2010 12:14
+375,mississippi ave & 19th st se / thearc,9/22/2017 6:11
+376,mlk library/9th & g st nw,7/31/2014 11:54
+377,monroe ave & leslie ave,8/20/2014 15:32
+378,monroe st & monroe pl,11/1/2013 13:09
+379,montgomery & east ln,9/27/2013 15:48
+380,montgomery ave & waverly st,10/20/2013 17:20
+381,montgomery college/w campus dr & mannakee st,10/19/2013 17:43
+382,mount vernon ave & bruce st,7/20/2016 15:53
+383,mount vernon ave & e del ray ave,8/19/2014 17:30
+384,mount vernon ave & e nelson ave,8/19/2014 12:41
+385,mount vernon ave & four mile run park,7/20/2016 16:00
+386,mount vernon ave & kennedy st,8/19/2014 17:22
+387,n adams st & lee hwy,4/25/2012 12:24
+388,n fillmore st & clarendon blvd,11/23/2011 21:28
+389,n highland st & wilson blvd,11/22/2011 16:33
+390,n lynn st & fairfax dr,11/9/2016 17:32
+391,n nelson st & lee hwy,11/30/2014 12:21
+392,n pershing dr & wayne st,7/2/2013 9:25
+393,n quincy st & glebe rd,4/28/2012 11:56
+394,n quincy st & wilson blvd,5/29/2012 13:13
+395,n randolph st & fairfax dr,4/27/2012 17:25
+396,n rhodes & 16th st n,4/17/2011 9:14
+397,n veitch  & 20th st n,4/24/2012 6:44
+398,n veitch & key blvd,4/24/2012 12:06
+399,nannie helen burroughs & minnesota ave ne,10/5/2010 17:58
+400,nannie helen burroughs ave & 49th st ne,11/9/2013 18:03
+401,neal st & trinidad ave ne,6/14/2013 11:32
+402,nebraska ave/au east campus,6/22/2017 7:40
+403,needwood rd & eagles head ct,10/18/2013 17:39
+404,new dominion pkwy & fountain dr,10/21/2016 9:47
+405,new hampshire & kirklynn ave,2/17/2017 14:37
+406,new hampshire ave & 24th st nw,8/6/2014 13:59
+407,new hampshire ave & t st nw,5/1/2013 0:01
+408,new hampshire ave & t st nw [formerly 16th & u st nw],4/1/2012 0:06
+409,new jersey ave & l st nw,8/2/2016 8:42
+410,new jersey ave & n st nw/dunbar hs,11/5/2013 9:48
+411,new jersey ave & r st nw,5/14/2013 8:01
+412,new york ave & 15th st nw,10/9/2010 14:34
+413,new york ave & hecht ave ne,11/12/2015 18:05
+414,norfolk & rugby ave,10/26/2013 17:28
+415,norfolk ave & fairmont st,9/27/2013 14:54
+416,north capitol st & f st nw,10/26/2010 14:47
+417,north capitol st & g pl ne,12/13/2013 12:39
+418,north shore & cameron crescent dr/crescent apartments,1/13/2017 12:16
+419,north shore dr & village rd,2/23/2017 16:46
+420,offutt ln & chevy chase dr,10/25/2013 13:30
+421,ohio dr & west basin dr sw / mlk & fdr memorials,3/16/2012 9:57
+422,oklahoma ave & d st ne,9/11/2015 21:59
+423,old georgetown rd & southwick st,11/13/2013 15:18
+424,park rd & holmead pl nw,9/20/2010 12:31
+425,pennsylvania & minnesota ave se,10/16/2010 17:18
+426,pentagon city metro / 12th & hayes st,10/1/2012 6:45
+427,pentagon city metro / 12th & s hayes st,8/1/2014 8:31
+428,pershing & n george mason dr,8/29/2013 15:34
+429,philadelphia & maple ave,9/27/2013 14:12
+430,piccard & w gude dr,10/27/2013 15:28
+431,pleasant st & mlk ave se,6/4/2013 11:21
+432,pooks hill rd & linden ave,1/8/2017 9:37
+433,potomac & m st nw,4/13/2017 3:49
+434,potomac & pennsylvania ave se,9/22/2010 20:38
+435,potomac & swann ave,7/28/2016 17:40
+436,potomac ave & 35th st s,10/24/2012 13:40
+437,potomac ave & 8th st se,10/9/2013 15:03
+438,potomac ave & main line blvd,6/9/2016 13:03
+439,potomac greens dr & slaters ln,8/20/2014 13:06
+440,powhatan st & bashford ln,7/28/2016 16:39
+441,prince st & union st,8/27/2012 8:31
+442,radford & osage st,6/9/2016 14:31
+443,randle circle & minnesota ave ne,9/25/2010 14:05
+444,randle circle & minnesota ave se,5/1/2013 20:20
+445,reston pkwy & spectrum dr,5/10/2017 12:11
+446,reston regional library,10/5/2016 10:47
+447,reston station,10/5/2016 9:37
+448,reston town center transit station,10/5/2016 11:23
+449,reston ymca,10/21/2016 10:11
+450,rhode island & connecticut ave nw,4/1/2017 1:23
+451,rhode island ave & v st ne,7/30/2013 16:33
+452,rhode island ave metro,2/24/2014 13:17
+453,ripley & bonifant st,10/30/2013 18:11
+454,river rd & landy ln,4/8/2014 15:40
+455,rockville metro east,2/24/2014 19:38
+456,rockville metro west,4/18/2014 15:24
+457,rolfe st & 9th st s,3/12/2014 11:00
+458,rosslyn metro / wilson blvd & ft myer dr,4/18/2011 15:31
+459,royal & wilkes st,4/28/2016 19:56
+460,s abingdon st & 36th st s,4/23/2013 22:09
+461,s arlington mill dr & campbell ave,4/24/2013 10:57
+462,s four mile run & walter reed dr,7/3/2015 13:06
+463,s four mile run dr & s shirlington rd,4/23/2013 11:11
+464,s george mason dr & 13th st s,7/1/2013 20:07
+465,s george mason dr & four mile run,7/1/2013 14:33
+466,s glebe & potomac ave,9/20/2010 20:54
+467,s joyce & 16th st s,11/5/2014 12:36
+468,s joyce & army navy dr,9/20/2010 21:33
+469,s kenmore & 24th st s,4/26/2013 12:09
+470,s oakland st & columbia pike,4/24/2013 19:34
+471,s stafford & 34th st s,7/2/2013 12:37
+472,s troy st & 26th st s,4/26/2013 13:39
+473,s walter reed dr & 8th st s,6/3/2015 16:53
+474,saint asaph & madison st,2/17/2016 11:17
+475,saint asaph st & pendleton  st,8/31/2012 18:00
+476,shady grove hospital,1/9/2014 14:58
+477,shady grove metro east,4/11/2017 7:35
+478,shady grove metro west,4/21/2014 8:55
+479,shirlington transit center / s quincy & randolph st,3/14/2014 16:25
+480,silver spring metro/colesville rd & wayne ave,9/27/2013 14:58
+481,sligo ave & carroll ln,11/10/2016 9:39
+482,smithsonian / jefferson dr & 12th st sw,4/2/2012 8:49
+483,smithsonian-national mall / jefferson dr & 12th st sw,10/1/2016 11:34
+484,solutions & greensboro dr,10/21/2016 16:19
+485,south capitol & atlantic st sw,4/13/2016 11:34
+486,spring hill metro,10/21/2016 14:58
+487,spring st & second ave,11/22/2014 10:22
+488,sunset hills & old reston ave,10/21/2016 9:09
+489,sunset hills rd & discovery square,1/18/2017 16:21
+490,sunset hills rd & isaac newton square,4/2/2017 1:36
+491,taft st & e gude dr,10/27/2013 12:08
+492,takoma metro,2/19/2014 14:09
+493,takoma park rec center,2/17/2017 13:49
+494,temporary rd & old reston ave,10/21/2016 5:46
+495,tenleytown / wisconsin ave & albemarle st nw,10/15/2010 20:41
+496,thomas circle,11/19/2011 9:53
+497,thomas jefferson cmty ctr / 2nd st s & ivy,12/13/2013 12:26
+498,tj cmty ctr / 2nd st & s old glebe rd,7/1/2014 6:43
+499,towers crescent dr & tysons one pl,12/19/2016 19:42
+500,town center pkwy & bowman towne dr,10/21/2016 9:52
+501,town center pkwy & sunset hills rd,4/20/2017 1:07
+502,traville gateway dr & gudelsky dr,9/29/2013 12:13
+503,tysons corner station,12/20/2016 11:56
+504,tysons one pl & chain bridge rd,1/6/2017 8:44
+505,tysons west transit center,10/21/2016 15:43
+506,union market/6th st & neal pl ne,11/20/2014 10:13
+507,us dept of state / virginia ave & 21st st nw,10/9/2010 17:29
+508,usda / 12th & independence ave sw,10/5/2010 18:48
+509,utah st & 11th st n,7/17/2012 20:24
+510,van ness metro / udc,9/24/2010 15:17
+511,veterans pl & pershing dr,2/8/2014 20:04
+512,virginia ave & 25th st nw,6/1/2017 1:32
+513,virginia square,3/1/2012 6:27
+514,virginia square metro / n monroe st & 9th st n,2/17/2012 9:01
+515,walter reed community center / walter reed dr & 16th st s,3/28/2013 6:32
+516,ward circle / american university,9/30/2010 10:47
+517,washington & independence ave sw/hhs,8/2/2013 9:29
+518,washington adventist u / flower ave & division st,9/5/2014 11:19
+519,washington blvd & 10th st n,2/29/2012 7:51
+520,washington blvd & 7th st n,5/1/2012 15:47
+521,washington blvd & n frederick st,2/23/2016 22:34
+522,washington blvd & walter reed dr,12/17/2013 8:47
+523,washington-lee high school / n stafford st & generals way,5/5/2017 6:41
+524,westover library / washington blvd & n mckinley rd,5/4/2017 5:49
+525,westpark & jones branch dr,10/21/2016 15:59
+526,westpark & park run dr,10/21/2016 16:08
+527,westpark dr & leesburg pike,10/21/2016 16:22
+528,wheaton metro/georgia ave & reedie dr,3/1/2017 12:23
+529,white house [17th & state pl nw],4/5/2017 6:23
+530,wilson blvd & franklin rd,12/1/2011 9:16
+531,wilson blvd & n edgewood st,11/11/2011 12:57
+532,wilson blvd & n illinois st,2/24/2016 6:28
+533,wilson blvd & n oakland st,4/25/2012 20:46
+534,wilson blvd & n quincy st,7/1/2016 1:32
+535,wilson blvd & n troy st,6/13/2017 6:36
+536,wilson blvd & n uhle st,8/1/2014 7:19
+537,windham ln & amherst ave,3/5/2017 17:24
+538,wisconsin ave & brandywine st nw,10/1/2016 10:02
+539,wisconsin ave & ingomar st nw,3/10/2016 15:23
+540,wisconsin ave & macomb st nw,9/25/2010 8:24
+541,wisconsin ave & newark st nw,1/1/2015 12:04
+542,wisconsin ave & o st nw,4/25/2013 16:51
+543,woodmont ave & strathmore st,4/2/2016 11:03
+544,yuma st & tenley circle nw,1/14/2016 17:39
